@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack Developer & CatLover 😻</h3>
 <h3 align="center">I'm currently living in Spain, near the beach! 🌊</h3>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Soyjavieralvarez)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-%C3%A1lvarez-gonz%C3%A1lez/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:javier.alvarez.gonzalez.com)
+
 - ⚡I'm currently working on improving as a **junior programmer, I finished a Full Stack Developer Bootcamp in March 2023 and I keep programming to improve myself every day**
 
 - 👯 I seek to collaborate with **people who like to create new ideas, innovate, good coffee in the morning and cats**
@@ -28,3 +32,15 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soyjavieralvarez&show_icons=true&locale=en" alt="soyjavieralvarez" /></p>
 
+<h3 align="left">Strengths:</h3>
+
+</a>
+    <p width="30%" align="right">
+        <p>⚡ <strong>Learn fast</strong></p>
+        <p>🚀 <strong>I can adapt to any project</strong></p>
+        <p>🧠 <strong>Very creative and decisive</strong></p>
+        <p>💻 <strong>Passionate about technology</strong></p>
+        <p>🔥 <strong>Original</strong></p>
+        <p>😃 <strong>With strong social skills</strong></p>
+    </p>
+</p>
