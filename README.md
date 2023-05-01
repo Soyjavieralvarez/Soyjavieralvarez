@@ -1,5 +1,6 @@
 <h1 align="center">Here we Go! I'm Javier Álvarez🤙</h1>
 <h3 align="center">Full Stack Developer & CatLover 😻</h3>
+<h3 align="center">I'm currently living in Spain, near the beach! 🌊</h3>
 
 - ⚡I'm currently working on improving as a **junior programmer, I finished a Full Stack Developer Bootcamp in March 2023 and I keep programming to improve myself every day**
 
