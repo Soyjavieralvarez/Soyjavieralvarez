@@ -33,15 +33,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soyjavieralvarez&show_icons=true&locale=en" alt="soyjavieralvarez" /></p>
 
 
-
-
-
-
-
-
 <br>
 <br>
-<h2 align="left">Strengths:</h2>
+
 
 <br>
 <br>
