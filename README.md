@@ -32,10 +32,14 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soyjavieralvarez&show_icons=true&locale=en" alt="soyjavieralvarez" /></p>
 
-##
-
+<br>
+<br>
 <h3 align="left">Strengths:</h3>
-
+<a href="https://github.com/Daggy1234">
+     <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyjavieralvarez&layout=compact&theme=monokai&hide=glsl" />
+  </a>
+<br>
+<br>
     <p width="30%" align="right">
         <p>⚡ <strong>Learn fast</strong></p>
         <p>🚀 <strong>I can adapt to any project</strong></p>
