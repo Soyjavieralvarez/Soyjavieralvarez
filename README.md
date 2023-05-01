@@ -34,13 +34,8 @@
 
 ##
 
-
-
-
-
 <h3 align="left">Strengths:</h3>
 
-</a>
     <p width="30%" align="right">
         <p>⚡ <strong>Learn fast</strong></p>
         <p>🚀 <strong>I can adapt to any project</strong></p>
@@ -49,4 +44,3 @@
         <p>🔥 <strong>Original</strong></p>
         <p>😃 <strong>With strong social skills</strong></p>
     </p>
-</p>
