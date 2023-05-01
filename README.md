@@ -1,5 +1,5 @@
-### Here we Go! I'm Javier Álvarez - CatLover 👋😻
-
+### Here we Go! I'm Javier Álvarez - Full Stack Developer & CatLover 👋😻
+##
 <!--
 **Soyjavieralvarez/Soyjavieralvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
