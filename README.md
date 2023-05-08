@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Soyjavieralvarez)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-%C3%A1lvarez-gonz%C3%A1lez/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:javier.alvarez.gonzalez.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:javieralvarezgonzalez61@.com)
 
 - ⚡I'm currently working on improving as a **junior programmer, I finished a Full Stack Developer Bootcamp in March 2023 and I keep programming to improve myself every day**.
 
