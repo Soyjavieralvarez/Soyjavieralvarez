@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **React, Angular, JavaScript or whatever you need.**
 
-- ⚡ Fun fact **I'm very cheerful, I was born in Cádiz, so I like that there is a good atmosphere in the team and, although the work is hard, we can have a pleasant time with the whole team**.
+- ⚡ Fun fact **I'm very cheerful, I was born in Cádiz, so I like a good atmosphere in the team and, although the work is hard, we can have a pleasant time with the whole team**.
 
-- ☕ I love wake up early, **going to the gym, having a good breakfast and working on my code**.
+- ☕ I love to wake up early, **going to the gym, having a good breakfast and working on my code**.
 
 - 📹 You can get to know me a little better and **see my best projects in the following video**: https://share.vidyard.com/watch/6ctt4zTJDSY4Di8WrC7H2E
 
