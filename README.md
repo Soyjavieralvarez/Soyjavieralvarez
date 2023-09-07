@@ -27,5 +27,14 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soyjavieralvarez&show_icons=true&locale=en" alt="soyjavieralvarez" /></p> -->
 
+<br>
+      <br>
+    <div align="center">
+    <a href="https://github.com/Daggy1234">
+     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soyjavieralvarez&layout=compact&theme=monokai&hide=glsl" />
+  </a>
+  </div>
+</p>
+
 
 
