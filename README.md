@@ -25,17 +25,3 @@
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyjavieralvarez&show_icons=true&locale=en&layout=compact" alt="soyjavieralvarez" /></p>
 
-<div align="center"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soyjavieralvarez&layout=compact&theme=monokai&hide=glsl" alt="My stats" />
-</div>
-
-</br>
-      <br>
-    <div align="center">
-    <a href="https://github.com/Daggy1234">
-     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soyjavieralvarez&layout=compact&theme=monokai&hide=glsl" />
-  </a>
-  </div>
-</p>
-
-
