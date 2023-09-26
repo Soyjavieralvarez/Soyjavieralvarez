@@ -29,10 +29,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true" alt="My stats" />
 </div>
 
-<div align="center"> 
-    <img align="center" src="https://github.com/Soyjavieralvarez" alt="My stats" />
-</div>
-
 </br>
       <br>
     <div align="center">
@@ -41,6 +37,5 @@
   </a>
   </div>
 </p>
-
 
 
