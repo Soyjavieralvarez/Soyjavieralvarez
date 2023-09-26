@@ -29,11 +29,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corocottax&show_icons=true&hide_border=true" alt="My stats" />
 </div>
 
+<div align="center"> 
+    <img align="center" src="https://github.com/Soyjavieralvarez" alt="My stats" />
+</div>
+
 </br>
-
-<p>&nbsp;<img align="right" src="[https://github-readme-stats.vercel.app/api?username=soyjavieralvarez&show_icons=true&locale=en](https://github.com/Soyjavieralvarez)" alt="soyjavieralvarez" /></p> -->
-
-<br>
       <br>
     <div align="center">
     <a href="https://github.com/Daggy1234">
